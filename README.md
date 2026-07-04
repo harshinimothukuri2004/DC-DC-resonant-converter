@@ -15,8 +15,6 @@ This project investigates four isolated full-bridge resonant converter topologie
 
 Each topology was designed, analysed, simulated, and compared under identical operating conditions to identify the most suitable converter for a 560 V to 51 V, 1 kW isolated DC power supply.
 
----
-
 ## Project Specifications
 
  Input Voltage  560 V DC 
